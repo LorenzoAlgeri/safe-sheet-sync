@@ -1,0 +1,13 @@
+card_no,first_name,last_name,phone,branch,membership,tags
+LB-0001,Ada,Placeholder,+39 000 000 0001,central,ADULT,poetry;history
+LB-0002,Ben,Sample,000 000 0002,north,adult,comics
+LB-0003,Cora,Example,,riverside,Student,
+LB-0004,Dan,Demo,0000000004,central,senior,large-print
+LB-0005,Eve,Fictional,000 000 0005,north,CHILD,kids-corner;comics
+LB-0006,Finn,Fake,000 000 0006,riverside,adult,
+LB-0007,Gus,Mock,000 000 0007,central,adult,history
+LB-0008,Hana,Test,000 000 0008,north,student,poetry
+LB-0009,Ivo,Dummy,000 000 0009,riverside,senior,
+LB-0010,Jill,Invented,000 000 0010,central,adult,comics;history
+LB-0011,Kai,Notreal,,north,child,kids-corner
+LB-0012,Lena,Pretend,000 000 0012,riverside,adult,poetry
